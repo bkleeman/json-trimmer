@@ -1,0 +1,2 @@
+# Ignore all JSON files to keep this script universal and all I/O files private
+*.json
