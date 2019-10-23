@@ -1,0 +1,7 @@
+Initial json test file was a 32KB file
+
+renaming keys to 1-2 letter names brought it down to 29KB
+
+rounding coordinate precision brought it down to 27KB
+
+dropping unnecessary fields (4 total) resulted in a final file size of 17KB
